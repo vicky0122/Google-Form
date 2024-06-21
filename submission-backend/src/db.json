@@ -1,0 +1,36 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "Name": "Veekshitha Gundeti",
+      "Email": "veekshithagundeti8562@gmail.com",
+      "PhoneNumber": "9110577941",
+      "GitHubLink": "veekshitha.co.in",
+      "StopwatchTime": "00:00:13"
+    },
+    {
+      "id": 2,
+      "Name": "Apoorve Singhal",
+      "Email": "apoorvesinghal@gmail.com",
+      "PhoneNumber": "9667745768",
+      "GitHubLink": "apoorve.co.in",
+      "StopwatchTime": "00:00:05"
+    },
+    {
+      "id": 3,
+      "Name": "Avantika Chowl",
+      "Email": "avantikachowl10@gmail.com",
+      "PhoneNumber": "9436798112",
+      "GitHubLink": "avantika.co.in",
+      "StopwatchTime": "00:00:09"
+    },
+    {
+      "id": 4,
+      "Name": "Saroja Gundeti",
+      "Email": "sarojagundenti221@gmail.com",
+      "PhoneNumber": "9701822923",
+      "GitHubLink": "saroja.co.in",
+      "StopwatchTime": "00:00:10"
+    }
+  ]
+}

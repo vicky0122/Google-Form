@@ -1,0 +1,44 @@
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google_form.CreateSubmissionForm.resources
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google_form.ViewSubmissionsForm.resources
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.vbproj.GenerateResource.cache
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.AssemblyInfoInputs.cache
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.AssemblyInfo.vb
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.vbproj.CoreCompileInputs.cache
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google_form.Form1.resources
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Google form.exe
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Google form.deps.json
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Google form.runtimeconfig.json
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Google form.dll
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Google form.pdb
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.dll
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\refint\Google form.dll
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.pdb
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.genruntimeconfig.cache
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\ref\Google form.dll
+C:\Users\vekshitha\source\repos\Google form\Google form\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google form.vbproj.AssemblyReference.cache
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google f.C1582809.Up2Date
+C:\Users\vekshitha\source\repos\Google form\Google form\obj\Debug\net6.0-windows\Google_form.Resources.resources
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Google Form.exe
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Google Form.deps.json
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Google Form.runtimeconfig.json
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Google Form.dll
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Google Form.pdb
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.vbproj.AssemblyReference.cache
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google_form.CreateSubmissionForm.resources
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google_form.Form1.resources
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google_form.Resources.resources
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google_form.ViewSubmissionsForm.resources
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.vbproj.GenerateResource.cache
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.AssemblyInfoInputs.cache
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.AssemblyInfo.vb
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.vbproj.CoreCompileInputs.cache
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google F.74DF9CA4.Up2Date
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.dll
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\refint\Google Form.dll
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.pdb
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\Google Form.genruntimeconfig.cache
+C:\Users\vekshitha\submission-frontend\repos\Google Form\Google Form\obj\Debug\net6.0-windows\ref\Google Form.dll
